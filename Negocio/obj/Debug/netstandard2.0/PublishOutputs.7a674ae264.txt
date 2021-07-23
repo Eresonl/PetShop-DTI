@@ -1,0 +1,5 @@
+C:\Users\Dell\Desktop\Emerson\Negocio\bin\Debug\netstandard2.0\publish\Negocio.dll
+C:\Users\Dell\Desktop\Emerson\Negocio\bin\Debug\netstandard2.0\publish\Negocio.deps.json
+C:\Users\Dell\Desktop\Emerson\Negocio\bin\Debug\netstandard2.0\publish\Negocio.pdb
+C:\Users\Dell\Desktop\Emerson\Negocio\bin\Debug\netstandard2.0\publish\SharedModels.dll
+C:\Users\Dell\Desktop\Emerson\Negocio\bin\Debug\netstandard2.0\publish\SharedModels.pdb

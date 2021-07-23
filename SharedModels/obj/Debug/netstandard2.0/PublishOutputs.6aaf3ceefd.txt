@@ -1,0 +1,3 @@
+C:\Users\Dell\Desktop\Emerson\SharedModels\bin\Debug\netstandard2.0\publish\SharedModels.dll
+C:\Users\Dell\Desktop\Emerson\SharedModels\bin\Debug\netstandard2.0\publish\SharedModels.deps.json
+C:\Users\Dell\Desktop\Emerson\SharedModels\bin\Debug\netstandard2.0\publish\SharedModels.pdb

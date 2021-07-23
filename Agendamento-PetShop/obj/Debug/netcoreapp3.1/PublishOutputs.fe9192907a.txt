@@ -1,0 +1,9 @@
+C:\Users\Dell\Desktop\Emerson\Agendamento-PetShop\bin\Debug\netcoreapp3.1\publish\Agendamento-PetShop.exe
+C:\Users\Dell\Desktop\Emerson\Agendamento-PetShop\bin\Debug\netcoreapp3.1\publish\Agendamento-PetShop.dll
+C:\Users\Dell\Desktop\Emerson\Agendamento-PetShop\bin\Debug\netcoreapp3.1\publish\Agendamento-PetShop.deps.json
+C:\Users\Dell\Desktop\Emerson\Agendamento-PetShop\bin\Debug\netcoreapp3.1\publish\Agendamento-PetShop.runtimeconfig.json
+C:\Users\Dell\Desktop\Emerson\Agendamento-PetShop\bin\Debug\netcoreapp3.1\publish\Agendamento-PetShop.pdb
+C:\Users\Dell\Desktop\Emerson\Agendamento-PetShop\bin\Debug\netcoreapp3.1\publish\Negocio.dll
+C:\Users\Dell\Desktop\Emerson\Agendamento-PetShop\bin\Debug\netcoreapp3.1\publish\SharedModels.dll
+C:\Users\Dell\Desktop\Emerson\Agendamento-PetShop\bin\Debug\netcoreapp3.1\publish\Negocio.pdb
+C:\Users\Dell\Desktop\Emerson\Agendamento-PetShop\bin\Debug\netcoreapp3.1\publish\SharedModels.pdb
