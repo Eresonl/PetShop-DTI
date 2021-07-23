@@ -1,5 +1,5 @@
 # DTI Pet-shop
-Repositório referente ao processo seletivo da DTI. esta solução foi desenvolvida em C#
+Repositório referente ao processo seletivo da DTI. esta solução foi desenvolvida em C# VS2019
 >Requisitos de entrada: 
 >  <data.><quantidade de cães pequenos>< quantidade de caes grandes>
 >  
